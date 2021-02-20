@@ -1,0 +1,4 @@
+include 'classloader-core'
+include 'wechat-classloader'
+include 'client'
+

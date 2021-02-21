@@ -52,7 +52,7 @@ Driver的具体实现，例如JDBC的jar包
 具体的应用程序，我们的应用程序会使用到classloader-core，wechat-classloader，触发对应的类加载器
 
 client的时序图如下：
-![WX20210220-165113@2x.png](http://ww1.sinaimg.cn/large/69ad3470gy1gnu3l8l38zj227e1hytig.jpg)
+![WX20210221-100532@2x.png](http://ww1.sinaimg.cn/large/69ad3470gy1gnuxid79izj21ki12mwkd.jpg)
 
 # 运行程序
 ```shell

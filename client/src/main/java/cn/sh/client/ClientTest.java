@@ -9,7 +9,6 @@ import cn.sh.classload.core.DriverManager;
 public class ClientTest {
 
     public static void main(String[] args) throws ClassNotFoundException {
-        System.setProperty("java.ext.dirs", "/Users/sh/workspace/ClassLoader/classloader-core/build/libs");
         Driver driver = DriverManager.getDriver();
         System.out.println(driver.getDriverDesc());
     }
